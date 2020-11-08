@@ -1,0 +1,19 @@
+{
+  "name": "stahlholz",
+  "version": "0.0.1",
+  "description": "stahl und holz bauwerke",
+  "main": "index.js",
+  "authors": {
+    "name": "yuri",
+    "email": "yurifbeck@gmail.com"
+  },
+  "repository": "https://github.com/bolokoz/stahlholz.git/",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

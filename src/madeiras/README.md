@@ -1,15 +1,5 @@
----
-sidebar: auto
----
+# Estruturas de Madeira
 
-# Config
+## Características fundamentais
 
-## foo
-
-- Type: `string`
-- Default: `/`
-
-## bar
-
-- Type: `string`
-- Default: `/`
+## Informações técnicas

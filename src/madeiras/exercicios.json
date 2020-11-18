@@ -1,0 +1,128 @@
+{
+    "exercicios" : [
+        {
+            "id":1,
+            "questao": "qual bla bla bla",
+            "imagens": [
+               "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+            ],
+            "alternativas": [
+               {
+                  "texto": "alternativa a",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa b",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa c",
+                  "resposta": " bla bla lbal bla blba",
+                  "imagens": [
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg",
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+                  ]
+               },
+               {
+                  "texto": "alternativa d",
+                  "resposta": " bla bla lbal bla blba",
+                  "correta": true
+               }
+            ]
+
+         },
+        {
+            "id":1,
+            "questao": "qual bla bla bla",
+            "imagens": [
+               "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+            ],
+            "alternativas": [
+               {
+                  "texto": "alternativa a",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa b",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa c",
+                  "resposta": " bla bla lbal bla blba",
+                  "imagens": [
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg",
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+                  ]
+               },
+               {
+                  "texto": "alternativa d",
+                  "resposta": " bla bla lbal bla blba",
+                  "correta": true
+               }
+            ]
+
+         },
+        {
+            "id":2,
+            "questao": "qual bla bla bla",
+            "imagens": [
+               "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+            ],
+            "alternativas": [
+               {
+                  "texto": "alternativa a",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa b",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa c",
+                  "resposta": " bla bla lbal bla blba",
+                  "imagens": [
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg",
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+                  ]
+               },
+               {
+                  "texto": "alternativa d",
+                  "resposta": " bla bla lbal bla blba",
+                  "correta": true
+               }
+            ]
+
+         },
+        {
+            "id":3,
+            "questao": "qual bla bla bla",
+            "imagens": [
+               "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+            ],
+            "alternativas": [
+               {
+                  "texto": "alternativa a",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa b",
+                  "resposta": " bla bla lbal bla blba"
+               },
+               {
+                  "texto": "alternativa c",
+                  "resposta": " bla bla lbal bla blba",
+                  "imagens": [
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg",
+                     "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+                  ]
+               },
+               {
+                  "texto": "alternativa d",
+                  "resposta": " bla bla lbal bla blba",
+                  "correta": true
+               }
+            ]
+
+         }
+    ]
+}
